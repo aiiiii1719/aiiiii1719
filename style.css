@@ -1,0 +1,25 @@
+body{
+    background: rgb(4,5,80);
+}
+.media{
+    margin: 30px 40px;
+    text-align: center;
+}
+.media img{
+    width: 80px;
+    margin: 0 280px;
+    box-shadow: 0 0 10px 0 #7f7f7f;
+    border-radius: 50%;
+}
+.text{
+    /*border: 2px solid;*/
+    width: 220px;
+    margin: 45px auto;
+    position: center;
+}
+.text h1{
+    width: 220px;
+    margin: 45px 45px;
+    position: relative;
+    color:rgb(242, 245, 250);
+}
